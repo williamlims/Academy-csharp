@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Academy-csharp</id>
+    <version>1.0.0</version>
+    <authors>Academy-csharp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GAMA ACADEMY FULL STACK C&amp;A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.runtimeconfig.json" target="lib\netcoreapp3.1\Academy-csharp.runtimeconfig.json" />
+    <file src="D:\GAMA ACADEMY FULL STACK C&amp;A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.dll" target="lib\netcoreapp3.1\Academy-csharp.dll" />
+  </files>
+</package>
