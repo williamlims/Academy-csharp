@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GAMA ACADEMY FULL STACK C&A\\atividade16\\Academy-csharp\\Academy-csharp.csproj": {}
+    "D:\\GAMA-ACADEMY-FULL-STACK-C-A\\atividade16\\Academy-csharp\\Academy-csharp\\Academy-csharp.csproj": {}
   },
   "projects": {
-    "D:\\GAMA ACADEMY FULL STACK C&A\\atividade16\\Academy-csharp\\Academy-csharp.csproj": {
+    "D:\\GAMA-ACADEMY-FULL-STACK-C-A\\atividade16\\Academy-csharp\\Academy-csharp\\Academy-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GAMA ACADEMY FULL STACK C&A\\atividade16\\Academy-csharp\\Academy-csharp.csproj",
+        "projectUniqueName": "D:\\GAMA-ACADEMY-FULL-STACK-C-A\\atividade16\\Academy-csharp\\Academy-csharp\\Academy-csharp.csproj",
         "projectName": "Academy-csharp",
-        "projectPath": "D:\\GAMA ACADEMY FULL STACK C&A\\atividade16\\Academy-csharp\\Academy-csharp.csproj",
+        "projectPath": "D:\\GAMA-ACADEMY-FULL-STACK-C-A\\atividade16\\Academy-csharp\\Academy-csharp\\Academy-csharp.csproj",
         "packagesPath": "C:\\Users\\TECHSTUDIO\\.nuget\\packages\\",
-        "outputPath": "D:\\GAMA ACADEMY FULL STACK C&A\\atividade16\\Academy-csharp\\obj\\",
+        "outputPath": "D:\\GAMA-ACADEMY-FULL-STACK-C-A\\atividade16\\Academy-csharp\\Academy-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TECHSTUDIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
