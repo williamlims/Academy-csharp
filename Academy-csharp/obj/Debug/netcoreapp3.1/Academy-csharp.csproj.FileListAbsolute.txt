@@ -12,3 +12,17 @@ D:\GAMA ACADEMY FULL STACK C&A\atividade16\Academy-csharp\Academy-csharp\obj\Deb
 D:\GAMA ACADEMY FULL STACK C&A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.dll
 D:\GAMA ACADEMY FULL STACK C&A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.pdb
 D:\GAMA ACADEMY FULL STACK C&A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.genruntimeconfig.cache
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.exe
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.deps.json
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.runtimeconfig.json
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.runtimeconfig.dev.json
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.dll
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\bin\Debug\netcoreapp3.1\Academy-csharp.pdb
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.csproj.AssemblyReference.cache
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.AssemblyInfoInputs.cache
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.AssemblyInfo.cs
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.csproj.CoreCompileInputs.cache
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.dll
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.pdb
+D:\GAMA-ACADEMY-FULL-STACK-C-A\atividade16\Academy-csharp\Academy-csharp\obj\Debug\netcoreapp3.1\Academy-csharp.genruntimeconfig.cache

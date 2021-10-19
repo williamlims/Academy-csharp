@@ -6,7 +6,8 @@ namespace Academy_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Notas Im = new Notas();
+            Im.InsereNotas();
         }
     }
 }
