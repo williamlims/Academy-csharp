@@ -34,7 +34,6 @@ namespace Academy_csharp
                 {
                     Console.WriteLine($"Reprovado. A média obtida foi {Media}!");
                 }
-
             }
         }
     }
