@@ -11,30 +11,24 @@ namespace Academy_csharp
         public void CalculaIMC()
         {
             Console.WriteLine("Insira o seu Peso:");
-            this.Peso = Convert.ToDouble(Console.ReadLine());
+            Peso = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Insira a sua Altura:");
-            this.Altura = Convert.ToDouble(Console.ReadLine());
+            Altura = Convert.ToDouble(Console.ReadLine());
 
-            this.IMC = this.Peso / this.Altura;
+            IMC = Peso / (Altura * Altura);
 
-            if (this.IMC < 20)
+            if (IMC < 20)
             {
                 Console.WriteLine("Abaixo do peso!");
             } 
-            else if (this.IMC >= 20 && this.IMC < 25)
+            else if (IMC >= 20 && IMC < 25)
             {
                 Console.WriteLine("Peso Ideal!");
             }
             else
             {
                 Console.WriteLine("Acima do peso!");
-            }
-
-            static void Main(string[] args)
-            {
-                Imc Im = new Imc();
-                Im.CalculaIMC();
             }
         }
     }

@@ -11,13 +11,13 @@ namespace Academy_csharp
         public void VerificaSalarios()
         {
             Console.WriteLine("Qual o salário do funcionário?");
-            this.SalarioFuncionario = Convert.ToDouble(Console.ReadLine());
+            SalarioFuncionario = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Qual o salário mínimo atual?");
-            this.SalarioMinimo = Convert.ToDouble(Console.ReadLine());
+            SalarioMinimo = Convert.ToDouble(Console.ReadLine());
 
-            this.Salarios = this.SalarioFuncionario / this.SalarioMinimo;
-            Console.WriteLine($"O Funcionário recebe {this.Salarios} sálarios mínimo!");
+            Salarios = SalarioFuncionario / SalarioMinimo;
+            Console.WriteLine($"O Funcionário recebe {Salarios} sálarios mínimo!");
         }
 
     }
