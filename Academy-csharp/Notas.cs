@@ -5,7 +5,7 @@ namespace Academy_csharp
 {
     class Notas
     {
-        double[] nota = new double[] { };
+        double[] nota = new double[4];
         public double Media { get; set; }
 
         public void InsereNotas()
@@ -13,28 +13,26 @@ namespace Academy_csharp
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine($"Insira a nota {i+1}:");
-                double var = Convert.ToDouble(Console.ReadLine());
-                nota.Append(var);
+                nota[i] = Convert.ToDouble(Console.ReadLine());
             }
 
-            this.Media = nota.Sum() / 3;
+            Media = nota.Sum() / 3;
 
-            if(this.Media >= 7)
+            if(Media >= 7)
             {
-                Console.WriteLine($"Aprovado. A média obtida foi {this.Media}!");
+                Console.WriteLine($"Aprovado. A média obtida foi {Media}!");
             } else
             {
                 Console.WriteLine("Insira a nota do exame:");
-                double var = Convert.ToDouble(Console.ReadLine());
-                nota.Append(var);
+                nota[3] = Convert.ToDouble(Console.ReadLine());
 
-                this.Media = (this.Media + (nota.Last)) / 2;
-                if(this.Media >= 5)
+                Media = (Media + nota[3]) / 2;
+                if(Media >= 5)
                 {
-                    Console.WriteLine($"Aprovado em exame. A média obtida foi {this.Media}!");
+                    Console.WriteLine($"Aprovado em exame. A média obtida foi {Media}!");
                 } else
                 {
-                    Console.WriteLine($"Reprovado. A média obtida foi {this.Media}!");
+                    Console.WriteLine($"Reprovado. A média obtida foi {Media}!");
                 }
 
             }
