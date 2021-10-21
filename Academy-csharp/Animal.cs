@@ -17,5 +17,11 @@
             set { tipo = value; }
         }
 
+        public Animal(string a, string b)
+        {
+            Nome = a;
+            Tipo = b;
+        }
+
     }
 }
